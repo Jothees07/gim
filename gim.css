@@ -1,0 +1,68 @@
+*{
+    font-family: 'Frank Ruhl Libre', serif;
+}
+
+/* navigation */
+.navbar-custom-css{
+    font-family: 'Lobster', cursive;
+
+}
+.nav-active{
+    border-bottom: 3px solid #00b906;
+}
+.navbar-brand{
+    font-size: x-large;
+}
+.nav-link{
+    font-size: 20px;
+}
+
+
+
+/* content */
+.heading{
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    color: #00b906;
+    font-weight: 600;
+}
+.main {
+    text-align: justify;
+    margin-left: 35px;
+    margin-right: 35px;
+    font-size: 18px;
+}
+.highlight{
+    color: #00b906;
+}
+.quote{
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+    color: #32d637;
+    margin-top: 15px;
+}
+
+
+/* footer */
+.footer{
+    margin-top: 15px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+.footer a{
+    font-size: 23px;
+    margin: 5px;
+}
+
+
+
+/* Contact */
+
+.contact-table td,.contact-table th{
+    padding-left: 20px;
+    padding-bottom: 5px;
+}
+.contact-table{
+    margin: auto;
+}
